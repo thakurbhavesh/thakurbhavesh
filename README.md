@@ -25,7 +25,7 @@ Currently working as a **PHP Web Developer at Aabhyasa Technologies Pvt. Ltd.**,
 
 ### 💻 Backend & Web Development
 
-* PHP *(LinkedIn Skill Assessment Passed)*
+* PHP 
 * MySQL
 * JSON / AJAX
 * RESTful APIs
@@ -35,7 +35,7 @@ Currently working as a **PHP Web Developer at Aabhyasa Technologies Pvt. Ltd.**,
 * HTML5
 * CSS3
 * Bootstrap
-* JavaScript *(LinkedIn Skill Assessment Passed)*
+* JavaScript 
 
 ### 💳 Payment Gateways
 
@@ -46,7 +46,6 @@ Currently working as a **PHP Web Developer at Aabhyasa Technologies Pvt. Ltd.**,
 
 ### ⚙️ Frameworks & Tools
 
-* Django (Python)
 * Git & GitHub
 
 ---
@@ -75,17 +74,16 @@ Currently working as a **PHP Web Developer at Aabhyasa Technologies Pvt. Ltd.**,
 ## 🧰 Tech Stack
 
 ```
-React Native | Expo | PHP | MySQL | JavaScript | HTML5 | CSS3  
-Bootstrap | Django | Stripe | PayPal | Cashfree | PayU | Git & GitHub
+React Native | PHP | MySQL | JavaScript | HTML5 | CSS3  
+Bootstrap | Stripe | PayPal | Cashfree | PayU | Git & GitHub
 ```
 
 ---
 
 ## 🌐 Connect With Me
 
-📫 **Email:** [bhaveshsinghdev@gmail.com](mailto:bhaveshsinghdev@gmail.com) *(optional — add if you want)*
+📫 **Email:** [singhbhavesh682@gmail.com](mailto:singhbhavesh682@gmail.com) *(optional — add if you want)*
 💼 **LinkedIn:** [linkedin.com/in/bhavesh-singh-04a74a1a5](https://www.linkedin.com/in/bhavesh-singh-04a74a1a5/)
-🐙 **GitHub:** [github.com/bhaveshsingh-dev](#) *(replace # with your GitHub link)*
 
 ---
 
