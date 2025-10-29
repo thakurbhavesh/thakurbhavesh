@@ -82,7 +82,7 @@ Bootstrap | Stripe | PayPal | Cashfree | PayU | Git & GitHub
 
 ## 🌐 Connect With Me
 
-📫 **Email:** [singhbhavesh682@gmail.com](mailto:singhbhavesh682@gmail.com) *(optional — add if you want)*
+📫 **Email:** [singhbhavesh682@gmail.com](mailto:singhbhavesh682@gmail.com)
 💼 **LinkedIn:** [linkedin.com/in/bhavesh-singh-04a74a1a5](https://www.linkedin.com/in/bhavesh-singh-04a74a1a5/)
 
 ---
