@@ -75,7 +75,7 @@ Currently working as a **PHP Web Developer at Aabhyasa Technologies Pvt. Ltd.**,
 
 ```
 React Native | PHP | MySQL | JavaScript | HTML5 | CSS3  
-Bootstrap | Stripe | PayPal | Cashfree | PayU | Git & GitHub | Payu
+Bootstrap | Stripe | PayPal | Cashfree | PayU | Git & GitHub 
 ```
 
 ---
